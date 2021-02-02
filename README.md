@@ -13,9 +13,9 @@
 
 > git branch -M main
 
-> git remote add origin https://github.com/ProdipKirtania/my-first-website.git
+> git remote add origin https://github.com/user-name/remote-repo.git
 
-> git push -u origin master
+> git push -u origin main
 
 
 local to remote after changes:
@@ -72,4 +72,4 @@ Merge a branch into a target branch
 -----------------------------------
 > git merge [source branch] [target branch]
 
-https://prodipkirtania.github.io/my-first-website/
+https://github.com/user-name/remote-repo.git
