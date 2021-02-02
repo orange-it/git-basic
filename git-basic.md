@@ -13,7 +13,7 @@
 
 > git remote add origin https://github.com/ProdipKirtania/my-first-website.git
 
-> git push -u origin master
+> git push -u origin main
 
 
 local to remote after changes:
