@@ -46,6 +46,10 @@ remote to local
 --------------------------
 > git pull
 
+How to Remove a directory from Git Repository
+---------------------------------------------
+>  rm -rf .git
+
 ** All about Branch
 =================================================
 
